@@ -38,7 +38,7 @@ Devloped using Spring Boot + JWT Authentication at back-end
 
 ```
 
-## Docker
+## Configure Docker
 
 Use the command "docker-compose up" in the terminal to run Docker and configure de file docker-compose.yml
 
